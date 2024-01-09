@@ -1,8 +1,10 @@
 # Running TutorGPT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TutorGPT is built using the OpenAI API, using prompt engineering and an alternate interface to force more cognitive engagement. Students can upload class notes to TutorGPT, which the bot will reference when answering questions. TutorGPT is designed to provide hints that help to answer the questions, but not to answer the full questions themselves. In initial testing, students using this interface engaged more with their course material and were less likely to copy and paste full questions to ask the AI assistant.
 
 ## Installations
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Running the server will require the following installations:
 ```
